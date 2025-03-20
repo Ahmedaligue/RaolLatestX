@@ -10,23 +10,6 @@
 
 ---
 
-### 🚀 **Quick Setup Guide**  
-```javascript
-# [1] Clone repository
-git clone https://github.com/latesturl/RaolLatestX.git
-
-# [2] Install dependencies ⚙️
-npm install
-
-# [3] Configure settings 🔧
-nano settings/config.js
-
-# [4] Start the bot 
-npm start
-```
-
----
-
 ## 💻 **Contributors**
 
 <div align="center">
