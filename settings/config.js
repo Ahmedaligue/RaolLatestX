@@ -5,25 +5,25 @@ global.calender = d.toLocaleDateString('id');
 
 //================= { SETTINGS } =================\\
 global.prefa = ['', '!', '.', ',', '🐤', '🗿'];
-global.owner = '';
-global.email = 'latesturltech@gmail.com';
+global.owner = '212625457341';
+global.email = 'aligueahmed6@gmail.com;
 global.ownNumb = '';
 global.NamaOwner = '';
 global.sessionName = 'session';
-global.namabot = 'RaolLatestX';
+global.namabot = 'AHMED ALIGUE';
 global.author = '';
 global.packname = '';
 global.yt = '';
 
 //================= { MASSAGE } =================\\
 global.mess = {
-    ingroup: 'Fitur ini khusus untuk group',
-    owner: 'Fitur ini khusus untuk owner',
-    premium: 'You are not a premium user',
-    seller: 'Hanya bisa digunakan untuk reseller',
-    usingsetpp: 'Hanya bisa digunakan untuk owner',
-    wait: 'Tunggu sedang diproses🕙',
-    limit: 'Limit kamu telah habis, silahkan tunggu riset 24 jam⏱️'
+    ingroup: 'جرب فالغروب',
+    owner: 'هدا الامر للمطوى',
+    premium: 'هدا الامر لمستخدمي بريم',
+    seller: 'لا يمكنك استخدام الامر لسبب ما',
+    usingsetpp: 'تستووووو',
+    wait: 'انتظر 🕙',
+    limit: 'لم يعد لديك عملات ⏱️'
 };
 
 //==================================\\
